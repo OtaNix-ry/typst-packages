@@ -1,0 +1,23 @@
+{
+  "pins": {
+    "nixpkgs": {
+      "type": "Channel",
+      "name": "nixpkgs-unstable",
+      "url": "https://releases.nixos.org/nixpkgs/nixpkgs-24.11pre676884.9bb1e7571aad/nixexprs.tar.xz",
+      "hash": "1fxm0xyw4c7kjpxn1hvcxmxhpcnsdz77v2i3575j9yrz1pzj35hk"
+    },
+    "typix": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "xhalo32",
+        "repo": "typix"
+      },
+      "branch": "main",
+      "revision": "505a295599b0c58559a37eb801769b26fee7adb1",
+      "url": "https://github.com/xhalo32/typix/archive/505a295599b0c58559a37eb801769b26fee7adb1.tar.gz",
+      "hash": "0dbchj331xb8mg9bz4rvd0s26lpclwbr0mln67rqr5fklnx4lskl"
+    }
+  },
+  "version": 3
+}

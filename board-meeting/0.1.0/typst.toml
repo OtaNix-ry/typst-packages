@@ -1,0 +1,15 @@
+[package]
+name = "board-meeting"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Niklas Halonen"]
+license = "MIT"
+description = "Board meeting notes"
+repository = "https://github.com/OtaNix-ry/typst-packages"
+categories = ["text"]
+compiler = "0.11.0"
+
+[template]
+path = "."
+entrypoint = "example.typ"
+thumbnail = "thumbnail.png"
