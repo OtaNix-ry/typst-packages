@@ -1,6 +1,3 @@
-// #import "@preview/grape-suite:1.0.0": exercise
-// #import exercise: project, task, subtask
-
 #import "lib.typ": *
 
 #show: meeting.with(

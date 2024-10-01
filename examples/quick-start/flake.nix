@@ -15,7 +15,7 @@
       flake = false;
     };
     otanix-typst-packages = {
-      url = "/home/niklash/otanix-typst";
+      url = "github:OtaNix-ry/typst-packages";
     };
   };
 
