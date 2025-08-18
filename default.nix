@@ -17,8 +17,8 @@
 
     # TODO merge all packages' typst derivations
     buildPhaseTypstCommand = ''
-      mkdir -p $out/otanix/board-meeting/0.1.0
-      cp -r ${(import ./board-meeting/0.1.0 inputs).default}/. $out/otanix/board-meeting/0.1.0
+      mkdir -p $out/otanix/board-meeting/0.1.1
+      cp -r ${(import ./board-meeting/0.1.1 inputs).default}/. $out/otanix/board-meeting/0.1.1
     '';
   };
 
